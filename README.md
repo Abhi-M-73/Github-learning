@@ -1,5 +1,3 @@
-# Github-learning
-
 # Git & GitHub Practical Documentation
 
 ## 1. Git aur GitHub kya hai?
